@@ -1,4 +1,4 @@
-# Phishing website detection
+# Phishing website detection an amazing project
 
 This experiment was created using machine learning algorithms with turicreate. 
 
